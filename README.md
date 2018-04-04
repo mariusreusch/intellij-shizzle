@@ -17,6 +17,7 @@
 * Ctrl+Shift+V (Clipboard History)
 * Ctrl+C / Ctrl+V (row)
 * Ctrl+W
+* Ctrl+Shift+T
 
 #Refactoring
 * Ctrl+Alt+V (without Semicolon)
@@ -31,8 +32,15 @@
 * Emmet
 * Move Code
 * Wer nutzt SQL Developer? (Recipe)
+    * Auto completion
+    * All intellij features like "Navigate to Declation,Rename, Language Injection"
 * Multi Cursor (especially in non Java files useful) und Alt+J und Ctrl+Alt+Shift+Click 
-* Git Integration (Undo, Reword, Shelf, VCS Operation Popup ....)
+* Git Integration
+    * Undo
+    * Reword
+    * Shelf
+    * CVS Operation Popup
+    * See complete changeset by selecting multiple commits
 * UML Diagrams (Recipe)
 * Font ligatures
 * Code Analysis / Inspections
@@ -40,6 +48,7 @@
 * Langauage Reference
 * IDE Settings Sync Plugin
 * Shared Run Config
+* Debugging
 
 
 #Discussion

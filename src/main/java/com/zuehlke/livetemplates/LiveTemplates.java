@@ -13,7 +13,6 @@ public class LiveTemplates {
     public void someSample(String value) {
         //
         if (value != null) {
-
         }
         //.null
         if (value == null) {
