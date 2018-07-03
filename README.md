@@ -1,5 +1,5 @@
 #Context Sensitive Action
-* i.e. Alt+Enter, Alt+Insert, Search
+* i.e. Alt+Enter, Alt+Insert (Project Tree, Java Class, Java Unit Test), Search
 
 #Code Generation
 * Alt+Insert
