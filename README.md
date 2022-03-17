@@ -1,16 +1,16 @@
-#Context Sensitive Action
+# Context Sensitive Action
 * i.e. Alt+Enter, Alt+Insert (Project Tree, Java Class, Java Unit Test), Search
 
-#Code Generation
+# Code Generation
 * Alt+Insert
 * Alt+Enter
 
-#Navigation
+# Navigation
 * Viele Möglichkeiten
 * Double Shift?
 * Präferenz: Ctrl+N, Ctrl+Shift+N, Ctrl+E, Ctrl+F12
 
-#Unknown but really helpful Shortcuts
+# Unknown but really helpful Shortcuts
 * Ctrl+Shift+A
 * Ctrl+Shift+J (Join Line)
 * Ctrl+Shift+Enter (Complete Line)
@@ -19,7 +19,7 @@
 * Ctrl+W
 * Ctrl+Shift+T
 
-#Refactoring
+# Refactoring
 * Ctrl+Alt+V (without Semicolon)
 * Ctrl+Alt+M
 * Ctrl+Alt+C
@@ -28,7 +28,7 @@
 * Ctrl+Alt+Shift+T
 
 
-#Various
+# Various
 * Emmet
 * Move Code
 * Wer nutzt SQL Developer? (Recipe)
@@ -51,7 +51,7 @@
 * Debugging
 
 
-#Discussion
+# Discussion
 * Ctrl+Shift+F12
 * No Tabs
 * Warum braucht man das?
